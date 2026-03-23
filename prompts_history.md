@@ -8,3 +8,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 11:57
 - **Prompt**: If you want, I can now rewrite your main.py with a clean, correct bubble sort version and explain each line. yes pls
 
+### 23-03-2026 12:04
+- **Prompt**: I would like to vizualize the sorting as it is happening. First , I would like to explore a terminal based approach. What do you suggest?
+
