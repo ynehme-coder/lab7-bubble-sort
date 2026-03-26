@@ -47,3 +47,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 11:06
 - **Prompt**: do this using the bubble sort function
 
+### 26-03-2026 11:17
+- **Prompt**: debug this
+
