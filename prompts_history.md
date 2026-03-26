@@ -65,3 +65,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 11:28
 - **Prompt**: how can I make it so that when theres no more swaps the entirety of the bars turn green instead of leaving white and red
 
+### 26-03-2026 11:38
+- **Prompt**: I would like now to explore a different rendering approach for the vizualization with some real 2D graphics. What would you suggest?
+
