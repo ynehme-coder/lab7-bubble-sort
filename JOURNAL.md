@@ -38,3 +38,18 @@
 - **Hook Version**: 1.02
 - **Date**: 23-03-2026 12:04
 - **Prompt**: I would like to vizualize the sorting as it is happening. First , I would like to explore a terminal based approach. What do you suggest?
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 23-03-2026 12:04
+- **User**: ynehme2007@gmail.com
+- **Prompt**: I would like to vizualize the sorting as it is happening. First , I would like to explore a terminal based approach. What do you suggest?
+- **CoPilot Mode**: Agent
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: ON
+- **Changes Made**: No code changes; provided terminal-based visualization strategy options for bubble sort.
+- **Context and Reasons for Changes**: User asked for guidance on visualizing sorting in terminal before implementing a graphical approach.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 09:54
+- **Prompt**: Can you set up testing for this app, using basic pytest features and create 5 tests?

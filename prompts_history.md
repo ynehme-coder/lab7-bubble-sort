@@ -11,3 +11,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 12:04
 - **Prompt**: I would like to vizualize the sorting as it is happening. First , I would like to explore a terminal based approach. What do you suggest?
 
+### 26-03-2026 09:54
+- **Prompt**: Can you set up testing for this app, using basic pytest features and create 5 tests?
+
