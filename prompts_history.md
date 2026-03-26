@@ -44,3 +44,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 10:39
 - **Prompt**: Can you help me learn by writing a skeleton bubble sort visual with stubs functions with comments and TODOs that will indicate what I need to do.
 
+### 26-03-2026 11:06
+- **Prompt**: do this using the bubble sort function
+

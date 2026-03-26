@@ -118,3 +118,18 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 10:39
 - **Prompt**: Can you help me learn by writing a skeleton bubble sort visual with stubs functions with comments and TODOs that will indicate what I need to do.
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 26-03-2026 10:41
+- **User**: ynehme2007@gmail.com
+- **Prompt**: Can you help me learn by writing a skeleton bubble sort visual with stubs functions with comments and TODOs that will indicate what I need to do
+- **CoPilot Mode**: Agent
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: ON
+- **Changes Made**: Added a terminal bubble sort visualization learning scaffold in main.py with stub functions, guided TODO blocks, and comments while preserving the tested bubble_sort function.
+- **Context and Reasons for Changes**: User requested a learn-by-doing skeleton rather than a full implementation, so the update provides an executable structure with intentional gaps to complete step-by-step.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 11:06
+- **Prompt**: do this using the bubble sort function
