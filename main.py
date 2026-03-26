@@ -19,4 +19,5 @@ def bubble_sort(values: list[int]) -> list[int]:
     return arr
 
 
-print(bubble_sort(numbers))
+if __name__ == "__main__":
+    print(bubble_sort(numbers))
