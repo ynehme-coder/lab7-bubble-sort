@@ -50,3 +50,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 11:17
 - **Prompt**: debug this
 
+### 26-03-2026 11:19
+- **Prompt**: just rewrite the brokrn parts as it broke my entire code and it doesnt work
+
