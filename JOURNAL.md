@@ -83,3 +83,8 @@
 - **Socratic Mode**: ON
 - **Changes Made**: Created README.md with project overview, setup, run instructions, and pytest usage.
 - **Context and Reasons for Changes**: User asked to create or update README for the project; file was missing, so a new README was added with practical local usage documentation.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 10:04
+- **Prompt**: I would like to visualize the sorting as it is happening. First, I would like to explore a terminal based approach. What do you suggest?
