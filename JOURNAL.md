@@ -173,3 +173,8 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 11:24
 - **Prompt**: I am getting this error and I dont know how to fixd it. Please help
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 11:25
+- **Prompt**: Traceback (most recent call last):   File "c:\Users\Yara\Desktop\Bsc Year 1 25-26\AI for software dev\lab7-bubble-sort\main.py", line 149, in <module>     run_learning_visual_demo()     ~~~~~~~~~~~~~~~~~~~~~~~~^^   File "c:\Users\Yara\Desktop\Bsc Year 1 25-26\AI for software dev\lab7-bubble-sort\main.py", line 144, in run_learning_visual_demo     final_state = visualize_bubble_sort_learning(numbers)   File "c:\Users\Yara\Desktop\Bsc Year 1 25-26\AI for software dev\lab7-bubble-sort\main.py", line 140, in visualize_bubble_sort_learning     return bubble_sort(values, on_step=on_step)   File "c:\Users\Yara\Desktop\Bsc Year 1 25-26\AI for software dev\lab7-bubble-sort\main.py", line 24, in bubble_sort     on_step(arr, i, j, False)     ~~~~~~~^^^^^^^^^^^^^^^^^^   File "c:\Users\Yara\Desktop\Bsc Year 1 25-26\AI for software dev\lab7-bubble-sort\main.py", line 135, in on_step     pause_for_user(     ~~~~~~~~~~~~~~^         mode=mode,         ^^^^^^^^^^         delay_seconds=float(settings["delay_seconds"]),         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^     )     ^   File "c:\Users\Yara\Desktop\Bsc Year 1 25-26\AI for software dev\lab7-bubble-sort\main.py", line 109, in pause_for_user     sleep(delay_seconds)     ~~~~~^^^^^^^^^^^^^^^ KeyboardInterrupt  im getting this error and im not sure where its coming from. Pkease help me fix it
