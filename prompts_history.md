@@ -77,3 +77,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 14:04
 - **Prompt**: how can I do this?
 
+### 27-03-2026 10:59
+- **Prompt**: create and implement a 2d visualization of the bubble sort algorithm using pygame. write some comments to explain what youre doing
+

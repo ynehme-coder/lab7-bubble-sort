@@ -268,3 +268,18 @@ im getting this error and im not sure where its coming from. Pkease help me fix 
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 14:04
 - **Prompt**: how can I do this?
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 26-03-2026 14:05
+- **User**: ynehme2007@gmail.com
+- **Prompt**: how can I do this?
+- **CoPilot Mode**: Agent
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: ON
+- **Changes Made**: No code changes; provided guided questioning to help implement keyboard controls and state transitions.
+- **Context and Reasons for Changes**: User asked for implementation guidance on keyboard handling; response focuses on decomposing the control flow and state logic before coding.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 27-03-2026 10:59
+- **Prompt**: create and implement a 2d visualization of the bubble sort algorithm using pygame. write some comments to explain what youre doing
